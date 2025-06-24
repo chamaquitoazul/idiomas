@@ -6,7 +6,8 @@ Node.js 12 o superior
 No requiere dependencias adicionales
 No requiere npm install - usa solo librerías nativas
 
-💻 Uso
+Uso
+
 Modo Interactivo
 bashnode detector.js
 
