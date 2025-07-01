@@ -11,14 +11,10 @@ Uso
 Modo Interactivo
 bashnode detector.js
 
-Analizar Texto Directo
+Analizar Texto 
 
 bashnode detector.js "Hola, ¿cómo estás?"
 node detector.js "Hello, how are you?"
 node detector.js "Hi amigo, ¿how are you doing?"
 
-Analizar Archivo
-bashnode detector.js -f archivo.txt
 
-Ayuda
-bashnode detector.js --help
